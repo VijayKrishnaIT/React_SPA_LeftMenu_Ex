@@ -1,4 +1,4 @@
-# React Application with Material UI
+# React Single Page Application with Material UI
 
     > create-react-app menu_ex
 
@@ -10,20 +10,11 @@
 
 - react-router-dom is used to implement the single page applications.
 
-Add the bootstrap CDN in index.html
+- Add the bootstrap CDN in index.html
 
 Reference: https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
 
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-
-<!-- jQuery library -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-<!-- Latest compiled JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
-Create Menu with List(super class), ListItem(child class), ListItemText(subchild class) and NavLink
+- Create Menu with List(super class), ListItem(child class), ListItemText(subchild class) and NavLink
 
 ## Create 3 Components
 
